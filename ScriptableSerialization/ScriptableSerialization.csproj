@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Company>Felix Kaiser</Company>
+        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <FileVersion>1.0.0.0</FileVersion>
+        <Title>ScriptableSerialization</Title>
+        <Authors>Felix Kaiser</Authors>
+        <Copyright>Copyright © 2022 Felix Kaiser</Copyright>
+        <PackageProjectUrl>https://github.com/foxscore/ScriptableSerialization</PackageProjectUrl>
+        <PackageLicenseUrl>https://mit-license.org/</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/foxscore/ScriptableSerialization</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+    </PropertyGroup>
+
+</Project>
